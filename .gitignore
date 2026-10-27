@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+
+# Dataset files (download separately)
+data/raw/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
